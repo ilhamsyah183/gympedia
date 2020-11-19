@@ -1,0 +1,48 @@
+body{
+    font-size:17px;
+    color:#fff;
+    background-size:cover;
+}
+
+.nav-top{
+    background-color: transparent;
+}
+
+.nav-top ul li a{
+    font-size: 18px;
+    color: darkred;
+}
+
+#navigasi-bar{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#nav-foot{
+    margin-top: 10%;
+    padding-top: 8%;
+    height: 370px;
+    background-image: url('bg_footer.svg');
+    background-size:cover;
+}
+hr{
+    background-color: #fff;
+}
+
+.text-foot ul li a, .text-foot{
+    color: #fff;
+}
+
+.img-logo-footer{
+    height: 15%;
+    width: 15%;
+}
+
+.container-img-foot{
+    padding-left: 15%;
+    padding-bottom: 3%;
+}
+
+.img-carousel-top{
+    margin-top: 3%;
+}
