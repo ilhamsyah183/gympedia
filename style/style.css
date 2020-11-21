@@ -6,6 +6,7 @@ body{
 
 .nav-top{
     background-color: transparent;
+    color: red;
 }
 
 .nav-top ul li a{
@@ -14,8 +15,8 @@ body{
 }
 
 #navigasi-bar{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #nav-foot{
@@ -45,4 +46,44 @@ hr{
 
 .img-carousel-top{
     margin-top: 3%;
+}
+
+#highlight-menu{
+    margin: 15px;
+}
+
+.highlight-menu-1{
+    height: max-content;
+    width: max-content;
+    padding: 2px;
+    background-color: transparent;
+}
+
+.text-menu-1{
+    padding-top: 5%;
+}
+
+.baris-menu{
+    border-radius: 25px;
+    background-color: #f7f7f9;
+}
+
+.btn-sign{
+    margin-right: 5%;
+}
+
+.navbar-inverse{
+    height: 65px;
+    padding-top: 5px;
+
+}
+
+.logo{
+    padding-right: 15px;
+    padding-left: 5px;
+    height: 50px;
+}
+.navbar-brand{
+    margin: 0;
+    padding: 0;
 }
