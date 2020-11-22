@@ -61,21 +61,18 @@ hr{
 
 .text-menu-1{
     padding-top: 5%;
+    
 }
 
-.baris-menu{
+.baris-menu, .row-contact{
     border-radius: 25px;
     background-color: #f7f7f9;
+    margin-top: 20px;
+    padding: 2%;
 }
 
 .btn-sign{
     margin-right: 5%;
-}
-
-.navbar-inverse{
-    height: 65px;
-    padding-top: 5px;
-
 }
 
 .logo{
@@ -86,4 +83,22 @@ hr{
 .navbar-brand{
     margin: 0;
     padding: 0;
+}
+
+.bor-contact{
+    border-left: 6px solid black;
+    height: fit-content;
+}
+.stopwatch-font{
+    color: red;
+    font-size: 78px;
+}
+
+.stopwatch-btn{
+    padding-right: 2%;
+}
+
+.thumb{
+    border-radius: 25px;
+    padding: 2%;
 }
